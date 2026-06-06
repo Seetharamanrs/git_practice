@@ -1,5 +1,4 @@
-
-# Two Sum-feature version 
+# Two Sum - Main and Feature Version
 nums=[2,7,11,15]
 target=9
 
