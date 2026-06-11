@@ -17,3 +17,5 @@ if c==d:
     print("ANAGRAM")
 else:
     print("NOT ANAGRAM")
+
+
