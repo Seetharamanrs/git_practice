@@ -15,7 +15,5 @@ for j in b:
         c[i]=1
 if c==d:
     print("ANAGRAM")
-else:
-    print("NOT ANAGRAM")
 
 
